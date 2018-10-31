@@ -726,7 +726,7 @@ $ curl -G healthwatch-api.system.DOMAIN.COM/v1/alert-configurations \
 </p>
 </details>
 
-## View _-specific-_ ALERT configuration
+## View a _-specific-_ ALERT configuration
 
 ```json
 $ curl -G "healthwatch-api.system.DOMAIN.COM/v1/alert-configurations"  \
@@ -745,7 +745,7 @@ $ curl -G "healthwatch-api.system.DOMAIN.COM/v1/alert-configurations"  \
 ]
 ```
 
-## Update a -specific- ALERT configuration
+## Update a _-specific-_ ALERT configuration
 
 ```json
 $ curl "healthwatch-api.system.DOMAIN.COM/v1/alert-configurations"  \
