@@ -104,7 +104,7 @@ $ curl -G healthwatch-api.system.DOMAIN.COM/v1/free-chunks \
     {
         "id": 1,
         "deployment": "healthwatch-default",
-        "value": 2048
+        "value": 3072
     }
 ]
 ```
