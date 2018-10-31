@@ -1,4 +1,4 @@
-# Helps for Pivotal Cloud Foundry Healthwatchs
+# Helps for Pivotal Cloud Foundry Healthwatch
 
 Helpers to view and alter [Pivotal Cloud Foundry Healthwatch](https://docs.pivotal.io/pcf-healthwatch/1-3/) alert and free chunks via its API.
 
